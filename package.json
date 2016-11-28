@@ -1,0 +1,11 @@
+{
+  "name": "cordovaplayground",
+  "version": "0.0.1",
+  "description": "learning cordova",
+  "license": "MIT",
+  "devDependencies": {
+    "cordova": "^6.4.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
